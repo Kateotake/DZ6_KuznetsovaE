@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kettt\\OneDrive\\Рабочий стол\\DZ_6. KuznetsovaE\\Zadacha_40_Hard\\Zadacha_40_Hard.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kettt\\OneDrive\\Рабочий стол\\DZ_6. KuznetsovaE\\Zadacha_40_Hard\\Zadacha_40_Hard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kettt\\OneDrive\\Рабочий стол\\DZ_6. KuznetsovaE\\Zadacha_40_Hard\\Zadacha_40_Hard.csproj",
+        "projectName": "Zadacha_40_Hard",
+        "projectPath": "C:\\Users\\kettt\\OneDrive\\Рабочий стол\\DZ_6. KuznetsovaE\\Zadacha_40_Hard\\Zadacha_40_Hard.csproj",
+        "packagesPath": "C:\\Users\\kettt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kettt\\OneDrive\\Рабочий стол\\DZ_6. KuznetsovaE\\Zadacha_40_Hard\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kettt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
